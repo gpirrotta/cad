@@ -17,7 +17,7 @@ Art. 54. Contenuto dei siti delle pubbliche amministrazioni
 
    e\) le pubblicazioni di cui all'articolo 26 della legge 7 agosto 1990, n. 241, nonché i messaggi di informazione e di comunicazione previsti dalla legge 7 giugno 2000, n. 150;
 
-   f\) l'elenco di tutti i bandi di gara ;
+   f\) l'elenco di tutti i bandi di gara;
 
    g\) l'elenco dei servizi forniti in rete già disponibili e dei servizi di futura attivazione, indicando i tempi previsti per l'attivazione medesima.
 
@@ -31,12 +31,12 @@ Art. 54. Contenuto dei siti delle pubbliche amministrazioni
 
 2-bis\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
-2-ter\. Le amministrazioni pubbliche pubblicano nei propri siti un indirizzo istituzionale di posta elettronica certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresì assicurare un servizio che renda noti al pubblico i tempi di risposta.
+2-ter\. Le amministrazioni pubbliche e i gestori di servizi pubblici pubblicano nei propri siti un indirizzo istituzionale di posta elettronica certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresì assicurare un servizio che renda noti al pubblico i tempi di risposta.
 
-2-quater\.  le amministrazioni pubbliche che già dispongono di propri siti devono pubblicare il registro dei processi automatizzati rivolti al pubblico. Tali processi devono essere dotati di appositi strumenti per la verifica a distanza da parte del cittadino dell'avanzamento delle pratiche che lo riguardano.
+2-quater\. Le amministrazioni pubbliche che già dispongono di propri siti devono pubblicare il registro dei processi automatizzati rivolti al pubblico. Tali processi devono essere dotati di appositi strumenti per la verifica a distanza da parte del cittadino dell'avanzamento delle pratiche che lo riguardano.
 
 3\. I dati pubblici contenuti nei siti delle pubbliche amministrazioni sono fruibili in rete gratuitamente e senza necessità di identificazione informatica.
 
-4\. Le pubbliche amministrazioni garantiscono che le informazioni contenute sui siti siano conformi e corrispondenti alle informazioni contenute nei provvedimenti amministrativi originali dei quali si fornisce comunicazione tramite il sito.
+4\. Le pubbliche amministrazioni garantiscono che le informazioni contenute sui siti siano accessibili, conformi e corrispondenti alle informazioni contenute nei provvedimenti amministrativi originali dei quali si fornisce comunicazione tramite il sito.
 
 4-bis\. La pubblicazione telematica produce effetti di pubblicità legale nei casi e nei modi espressamente previsti dall'ordinamento.

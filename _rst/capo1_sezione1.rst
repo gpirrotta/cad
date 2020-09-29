@@ -43,7 +43,7 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4
 
 Sulla proposta del Ministro per l'innovazione e le tecnologie, di concerto con il Ministro per la funzione pubblica, con il Ministro dell'economia e delle finanze, con il Ministro dell'interno, con il Ministro della giustizia, con il Ministro delle attività produttive e con il Ministro delle comunicazioni;
 
-E m a n a il seguente decreto legislativo:
+Emana il seguente decreto legislativo:
 
 
 .. toctree::
