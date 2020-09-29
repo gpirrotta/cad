@@ -1,5 +1,5 @@
-Capo II. Documento informatico e firme elettroniche; pagamenti, libri e Scritture
-=================================================================================
+Capo II. Documento informatico e firme elettroniche; trasferimenti, libri e scritture
+=====================================================================================
 
 .. toctree::
 
