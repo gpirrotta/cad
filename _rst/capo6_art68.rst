@@ -9,11 +9,11 @@ Art. 68. Analisi comparativa delle soluzioni
 
    a\) sviluppo di programmi informatici per conto e a spese dell'amministrazione sulla scorta dei requisiti indicati dalla stessa amministrazione committente;
 
-   b\) riuso di programmi informatici ,o parti di essi,sviluppati per conto e a spese della medesima o di altre amministrazioni;
+   b\) riuso di programmi informatici, o parti di essi, sviluppati per conto e a spese della medesima o di altre amministrazioni;
 
    c\) acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso;
 
-   d\) acquisizione di programmi informatici a codice sorgente aperto;
+   d\) acquisizione di programmi informatici appartenenti alla categoria del software libero o a codice sorgente aperto;
 
    e\) acquisizione mediante combinazione delle modalità di cui alle lettere da a) a d).
 
