@@ -13,7 +13,7 @@ Art. 65. Istanze e dichiarazioni presentate alle pubbliche amministrazioni per v
 
    c\) ovvero sono sottoscritte e presentate unitamente alla copia del documento d'identità;;
 
-   c-bis\) ovvero se trasmesse dall'istante o dal dichiarante dal proprio domicilio digitale purché le relative credenziali di accesso siano state rilasciate previa identificazione del titolare, anche per via telematica secondo modalità definite con regole tecniche adottate ai sensi dell'articolo 71, e ciò sia attestato dal gestore del sistema nel messaggio o in un suo allegato. In tal caso, la trasmissione costituisce elezione di domicilio speciale ai sensi dell'articolo 47 del Codice civile. Sono fatte salve le disposizioni normative che prevedono l'uso di specifici sistemi di trasmissione telematica nel settore tributario;
+   c-bis\) ovvero se trasmesse dall'istante o dal dichiarante dal proprio domicilio digitale purché le relative credenziali di accesso siano state rilasciate previa identificazione del titolare, anche per via telematica secondo modalità definite con Linee guida, e ciò sia attestato dal gestore del sistema nel messaggio o in un suo allegato. In tal caso, la trasmissione costituisce elezione di domicilio speciale ai sensi dell'articolo 47 del Codice civile. Sono fatte salve le disposizioni normative che prevedono l'uso di specifici sistemi di trasmissione telematica nel settore tributario;
 
 1-bis\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
@@ -24,4 +24,3 @@ Art. 65. Istanze e dichiarazioni presentate alle pubbliche amministrazioni per v
 3\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
 4\. Il comma 2 dell'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, è sostituito dal seguente: "2. Le istanze e le dichiarazioni inviate per via telematica sono valide se effettuate secondo quanto previsto dall'articolo 65 del decreto legislativo 7 marzo 2005, n. 82".
-

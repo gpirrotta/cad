@@ -21,4 +21,4 @@ Art. 20. Validità ed efficacia probatoria dei documenti informatici
 
 5\. Restano ferme le disposizioni di legge in materia di protezione dei dati personali.
 
-5-bis\. Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle regole tecniche dettate ai sensi dell'articolo 71.
+5-bis\. Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle Linee guida.
