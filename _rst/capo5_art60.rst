@@ -9,9 +9,9 @@ Art. 60. Base di dati di interesse nazionale
 
 2\. Ferme le competenze di ciascuna pubblica amministrazione, le basi di dati di interesse nazionale costituiscono, per ciascuna tipologia di dati, un sistema informativo unitario che tiene conto dei diversi livelli istituzionali e territoriali e che garantisce l'allineamento delle informazioni e l'accesso alle medesime da parte delle pubbliche amministrazioni interessate. Tali sistemi informativi possiedono le caratteristiche minime di sicurezza, accessibilità e interoperabilità e sono realizzati e aggiornati secondo le Linee guida e secondo le vigenti regole del Sistema statistico nazionale di cui al decreto legislativo 6 settembre 1989, n. 322, e successive modificazioni.
 
-2-bis\. Le pubbliche amministrazioni responsabili delle basi dati di interesse nazionale consentono il pieno utilizzo delle informazioni ai soggetti di cui all'articolo 2, comma 2, secondo standard e criteri di sicurezza e di gestione definiti nelle Linee guida.
+2-bis\. Le pubbliche amministrazioni responsabili delle basi dati di interesse nazionale consentono il pieno utilizzo delle informazioni ai soggetti di cui all'articolo 2, comma 2, secondo standard e criteri di sicurezza e di gestione definiti nelle Linee guida e mediante la piattaforma di cui all'articolo 50-ter.
 
-2-ter\. Le amministrazioni responsabili delle basi di dati di interesse nazionale definiscono e pubblicano i piani di aggiornamento dei servizi per l'utilizzo delle medesime basi di dati.
+2-ter\. COMMA ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76.
 
 3\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
