@@ -7,7 +7,7 @@ Art. 54. Contenuto dei siti delle pubbliche amministrazioni
 
 1\. I siti delle pubbliche amministrazioni contengono necessariamente i seguenti dati pubblici:
 
-   a\) l'organigramma, l'articolazione degli uffici, le attribuzioni e l'organizzazione di ciascun ufficio anche di livello dirigenziale non generale,i nomi dei dirigenti responsabili dei singoli uffici, nonché il settore dell'ordinamento giuridico riferibile all'attività da essi svolta, corredati dai documenti anche normativi di riferimento;
+   a\) l'organigramma, l'articolazione degli uffici, le attribuzioni e l'organizzazione di ciascun ufficio anche di livello dirigenziale non generale, i nomi dei dirigenti responsabili dei singoli uffici, nonché il settore dell'ordinamento giuridico riferibile all'attività da essi svolta, corredati dai documenti anche normativi di riferimento;
 
    b\) l'elenco delle tipologie di procedimento svolte da ciascun ufficio di livello dirigenziale non generale, il termine per la conclusione di ciascun procedimento ed ogni altro termine procedimentale, il nome del responsabile e l'unità organizzativa responsabile dell'istruttoria e di ogni altro adempimento procedimentale, nonché dell'adozione del provvedimento finale, come individuati ai sensi degli articoli 2, 4 e 5 della legge 7 agosto 1990, n. 241;
 
@@ -24,6 +24,10 @@ Art. 54. Contenuto dei siti delle pubbliche amministrazioni
 2\. Le amministrazioni centrali che già dispongono di propri siti realizzano quanto previsto dal comma 1 entro ventiquattro mesi dalla data di entrata in vigore del presente codice.
 
 2-bis\. Il principio di cui al comma 1 si applica alle amministrazioni regionali e locali nei limiti delle risorse tecnologiche e organizzative disponibili e nel rispetto della loro autonomia normativa.
+
+2-ter\. Entro il 30 giugno 2009, le amministrazioni pubbliche che già dispongono di propri siti sono tenute a pubblicare nella pagina iniziale del loro sito un indirizzo di posta elettronoca certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresì assicurare un servizio che renda noti al pubblico i tempi di risposta, le modalità di lavorazione delle pratiche e i servizi disponibili.
+
+2-quater\. Entro il 31 dicembre 2009 le amministrazioni pubbliche che già dispongono di propri siti devono pubblicare il registro dei processi automatizzati rivolti al pubblico. Tali processi devono essere dotati di appositi strumenti per la verifica a distanza da parte del cittadino dell'avanzamento delle pratiche.
 
 3\. I dati pubblici contenuti nei siti delle pubbliche amministrazioni sono fruibili in rete gratuitamente e senza necessità di autenticazione informatica.
 
