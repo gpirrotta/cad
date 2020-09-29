@@ -5,7 +5,7 @@ Art. 3-bis. (domicilio digitale del cittadino).
 
 
 
-1\. Al fine di facilitare la comunicazione tra pubbliche amministrazioni e cittadini, è facoltà di ogni cittadino indicare alla pubblica amministrazione, secondo le modalità stabilite al comma 3, un proprio indirizzo di posta elettronica certificata, rilasciato ai sensi dell'articolo 16-bis, comma 5, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2 quale suo domicilio digitale.
+1\. Al fine di facilitare la comunicazione tra pubbliche amministrazioni e cittadini, è facoltà di ogni cittadino indicare alla pubblica amministrazione, secondo le modalità stabilite al comma 3, un proprio indirizzo di posta elettronica certificata  quale suo domicilio digitale.
 
 2\. L'indirizzo di cui al comma 1 è inserito nell'Anagrafe nazionale della popolazione residente-ANPR e reso disponibile a tutte le pubbliche amministrazioni e ai gestori o esercenti di pubblici servizi.
 
@@ -19,6 +19,6 @@ Art. 3-bis. (domicilio digitale del cittadino).
 
 4-quater\. Le modalità di predisposizione della copia analogica di cui ai commi 4-bis e 4-ter soddisfano le condizioni di cui all'articolo 23-ter, comma 5, salvo i casi in cui il documento rappresenti, per propria natura, una certificazione rilasciata dall'amministrazione da utilizzarsi nei rapporti tra privati.
 
-5\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. 21
+5\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. (21)
 
 AGGIORNAMENTO (21) Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98, nel modificare l'art. 4 comma 1, del D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 13, comma 2-quater) che il decreto ministeriale previsto dal presente articolo, qualora non ancora adottato e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del D.L. 69/2013 suindicato, è adottato dal Presidente del Consiglio dei ministri anche ove non sia pervenuto il concerto dei Ministri interessati.
