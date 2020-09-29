@@ -7,7 +7,7 @@ Art. 65. Istanze e dichiarazioni presentate alle pubbliche amministrazioni per v
 
 1\. Le istanze e le dichiarazioni presentate alle pubbliche amministrazioni per via telematica ai sensi dell'articolo 38, commi 1 e 3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sono valide:
 
-   a\) se sottoscritte mediante la firma digitale, il cui certificato è rilasciato da un certificatore accreditato;
+   a\) se sottoscritte mediante la firma digitale o la firma elettronica qualificata, il cui certificato è rilasciato da un certificatore accreditato;
 
    b\) ovvero, quando l'autore è identificato dal sistema informatico con l'uso della carta d'identità elettronica o della carta nazionale dei servizi, nei limiti di quanto stabilito da ciascuna amministrazione ai sensi della normativa vigente;
 
@@ -17,7 +17,7 @@ Art. 65. Istanze e dichiarazioni presentate alle pubbliche amministrazioni per v
 
 1-bis\. Con decreto del Ministro per la pubblica amministrazione e l'innovazione e del Ministro per la semplificazione normativa, su proposta dei Ministri competenti per materia, possono essere individuati i casi in cui è richiesta la sottoscrizione mediante firma digitale.
 
-2\. Le istanze e le dichiarazioni inviate o compilate su sito secondo le modalità previste dal comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento ;.
+2\. Le istanze e le dichiarazioni inviate o compilate su sito secondo le modalità previste dal comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento ;
 
 3\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
